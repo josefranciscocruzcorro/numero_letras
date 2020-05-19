@@ -1,5 +1,5 @@
 {
-  "name": "pan",
+  "name": "numero_letras",
   "version": "0.0.1",
   "description": "convertir numeros a letras y viceversa",
   "main": "index.js",
